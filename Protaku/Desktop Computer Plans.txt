@@ -1,0 +1,30 @@
+CPU:	i7 4790k
+	i5 4690k
+	i5 6600K
+	i7 6700K
+
+GPU:	GTX 970
+	GTX 980
+
+Mobo:	ASROCK Z170 EXTREME3
+	Asus Z170 Pro Gaming
+	ASRock Fatal1ty Z170 Gaming K6+
+	Gigabyte Z170X-Gaming 7
+
+RAM:	Crucial Ballistix Sport DDR4 2400 MT/s
+	Corsair Vengeance LPX 3000Mhz ram
+	Kingston HyperX FURY 2133MHz DDR4
+
+LTM:	SAMSUNG 850 PRO 2.5" 512GB SATA III (possible upgrade to 1Tb; 2x the cost)
+
+PSU:	EVGA 500W 80 PLUS Certified ATX12V/EPS12V
+
+Fans:	No Idea?
+	
+Theory Build: 2316.61 cdn (including 350 for keyboard, monitor, and fans)
+CPU:	i7 6700k - 464.88 cdn
+GPU:	GTX 980  - 629.99 cdn
+Mobo:	ASRock Fatal1ty Z170 Gaming K6+  - 289.99 cdn
+RAM:	Kingston HyperX FURY 2133MHz DDR4 2x8Gb  - 74.55 cdn
+LTM:	SAMSUNG 850 PRO 2.5" 512GB SATA III  - 207.00 cdn
+PSU:	EVGA 500W 80 PLUS Certified ATX12V/EPS12V  - 51.99 cdn
